@@ -1,0 +1,10 @@
+# Tips for python
+
+## Next line 
+
+```python
+name = 'Avraj \n'
+```
+- the \n means new line and will move to the next line in the display terminal
+
+##  
