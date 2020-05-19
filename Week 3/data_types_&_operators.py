@@ -50,6 +50,7 @@ example_text = "some text Here"
 # .replace(old_str, new_str)
 # print(example_text.replace("Here", "There"))
 
+###################################################
 x = 2
 y = 5.4
 z = " there's now a number " + str(x) + " add it to " + str(y) + "this equals " + str(x + y)
@@ -58,7 +59,22 @@ z = " there's now a number " + str(x) + " add it to " + str(y) + "this equals " 
 x = "8"
 # # find type
 # print(type(x))
-# # change to int 
+# # change to int
 # print(type(int(x)))
 # # change to float
 # print(type(float(x)))
+
+#################################################
+
+# Boolean operators
+# there are only two types True or False
+
+# a = True
+# b = False
+
+greeting = "Hello world"
+# print(greeting.startswith("h"))
+# print(greeting.endswith("!"))
+
+############################
+
