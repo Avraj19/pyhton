@@ -10,7 +10,7 @@ l_name = input('What is your last name? \n')
 age = int(input('What is your age this year? \n'))
 eye_color = input('What is your eye color? \n')
 hair_color = input('What is your hair color? \n')
-
+# Extra - Cast your input
 str_age = str(age)
 # Print them back to the user as conversation
 # Example: 'Hello Jack! Welcome, your age is 26, your eyes are green and your hair color is black.
@@ -23,4 +23,4 @@ date_of_birth = 2020 - age
 print('You said you we\'er this year' + str_age + ' hence you were born in ' + str(date_of_birth) + '!')
 # print something like: 'You said you we're 28 hence you were born in 1991!'
 
-# Extra - Cast your input
+
