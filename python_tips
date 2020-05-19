@@ -1,10 +1,11 @@
 # Tips for python
-
+The pyrthon standerd libray is OP, it has everything you would ever need to sear about python
+https://docs.python.org/3/library/
 ## Next line 
 
 ```python
 name = 'Avraj \n'
 ```
-- the \n means new line and will move to the next line in the display terminal
+- The \n means new line and will move to the next line in the display terminal
 
 ##  
