@@ -33,4 +33,4 @@ my_cringe_landlord = ['Alfredo', 'Betty', 'Jack', 'Lee']
 # .pop() If you do not writen in the brackets,it will remove the last index on list
 # my_cringe_landlord.pop(4)
 ###########################################################
-
+#ghjk
