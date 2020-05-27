@@ -46,4 +46,4 @@ while True:
 
     else:
         print('You are smart, but not wise - address me as Sensei please')
-#
+
